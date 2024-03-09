@@ -14,8 +14,8 @@ Welcome to the Task Management System repository! This Python-based system provi
 
 ### Clone the Repository:
 
-git clone https://github.com/ievagilb/task-management-system.git
-cd task-management-system
+ - git clone [https://github.com/ievagilb/task-management-system.git](https://github.com/ievagilb/finalCapstone.git)
+ - cd task-management-system
 
 ### Run the Program:
 
