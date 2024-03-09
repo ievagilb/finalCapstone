@@ -1,0 +1,3 @@
+admin;password
+ieva;ieva
+Peter;peter
